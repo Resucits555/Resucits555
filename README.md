@@ -11,8 +11,8 @@ Projects I'm working on, are finished, or I'm planning to start:
 Most of these project are written in C++, which I'm slowly losing interest in, as C++ is an old language that is trying to keep up with new needs, while staying backwards compatible, and is simply overfilled with hundreds of extremely specific functions and sometimes has a very confusing syntax. I'm planning to move to C or even learn Go because they're much cleaner and still have decent speed.
 And yes, I'm a memory and speed freak, I dislike using more memory than the absolute minimum that I'll find, and make a program as fast as it's reasonably possible, which is stealing a good amount of my time, but is fortunately limited by the language itself, which doesn't bother me at all for some reason.
 
-Best retards,
-Chair
-
-|
+Best retards,  
+Chair  
+  
+|  
 |-\
